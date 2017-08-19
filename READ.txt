@@ -1,0 +1,1 @@
+Dans ce repo, je crée artificiellement un projet qui répond aux exigences de l'activvité proposée par OpenClassrooms.
